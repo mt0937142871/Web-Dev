@@ -1,0 +1,33 @@
+.description {
+	color: grey;
+	max-width: 705px;
+	margin-left: 20px;
+	font-size: 24px;
+}
+
+.app{
+	display: flex;
+	display: -webkit-flex;
+}
+
+.screenshot {
+	max-width: 460px;
+}
+
+.title {
+	font-weight: bolder;
+	color: white;
+	background-color: #33BEBE;
+	font-style: italic;
+	font:message-box;
+	font-size: 48px;
+	font-weight:bold;
+}
+
+*{
+	outline: 1px solid red;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
