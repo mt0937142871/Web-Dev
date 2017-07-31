@@ -1,10 +1,17 @@
-This is **BOLD**
+#My Fabulous Recipe
 
-This is _italic_
+This recipe for **cereal and milk** has been passed down my family for months.
 
-This is `code block`
+##Ingredients
 
-## This is h2
+*Cereal (you can find cool cereals [here](www.example.com/coolcereals))
+*Milk
 
+##Directions
 
-##### This is h5
+If I were writing these out as _code_, it might look something like this:</p>
+
+`if bowl is empty:
+    add cereal
+if bowl only has cereal in it:
+    add milk`
