@@ -14,6 +14,7 @@ This project provides a website to show movies and their trailers
 To create the website, one must install Python on his computer
 
 Run the following code to create html file:
+
 `python entertainment_center.py`
 
 The associated website will be created and opened in the default browser
