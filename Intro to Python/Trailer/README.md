@@ -1,18 +1,22 @@
-# My Fabulous Recipe
+# Movie Trailer Website
 
-This recipe for **cereal and milk** has been passed down my family for months.
+This project provides a website to show movies and their trailers
 
-## Ingredients
+## Features
 
-* Cereal (you can find cool cereals [here](www.example.com/coolcereals))
+* Movie title
+* Movie poster
+* Link to movie trailer
 
-* Milk
+## Instructions
 
-## Directions
+#### Compile the website
+To create the website, one must install Python on his computer
 
-If I were writing these out as _code_, it might look something like this:</p>
+Run the following code to create html file:
+`python entertainment_center.py`
 
-`if bowl is empty:
-    add cereal
-if bowl only has cereal in it:
-    add milk`
+The associated website will be created and opened in the default browser
+
+#### Navigating the site
+In the website, there are titles and poster of movies. Click on the poster and the trailer will be played automatically. 
