@@ -27,5 +27,7 @@ If the website does not open automatically, run:
 
 `open fresh_tomatoes.html `
 
+
+
 #### Navigating the site
 In the website, there are titles and poster of movies. Click on the poster and the trailer will be played automatically. 
